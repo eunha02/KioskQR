@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender">
+        <item>남성</item>
+        <item>여성</item>
+    </string-array>
+    <string-array name="role">
+        <item>고객</item>
+        <item>관리자</item>
+    </string-array>
+    <string-array name="branch">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>
